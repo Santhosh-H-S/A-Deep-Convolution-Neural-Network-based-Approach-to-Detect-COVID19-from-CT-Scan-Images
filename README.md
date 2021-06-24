@@ -1,1 +1,1 @@
-# A-Deep-Convolution-Neural-Network-based-Approach-to-Detect-COVID19-from-CT-Scan-Images
+# A Deep Convolution Neural Network, AI Based Approach - To Detect COVID19 From CT Scan Images
